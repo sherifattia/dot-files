@@ -1,6 +1,3 @@
-# Better ls
-alias ls="ls -a -l --color=yes"
-
 # Smiley Prompt
 RESET="\[\017\]"
 NORMAL="\[\033[0m\]"
